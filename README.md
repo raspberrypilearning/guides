@@ -1,3 +1,3 @@
 # guides
 
-- [VNC Broswer Guide](vnc/vnc-browser-guide.md)
+- [VNC Guide](vnc/README.md)
