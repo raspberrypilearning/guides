@@ -1,2 +1,3 @@
 # guides
-Helpful step by step guides on a variety of Raspberry Pi topics
+
+- [VNC Broswer Guide](vnc/vnc-browser-guide.md)
