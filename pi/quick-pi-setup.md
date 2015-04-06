@@ -9,7 +9,7 @@ Before you plug anything into your Raspberry Pi, make sure that you have all the
 ### Required:
 - **SD Card** We recommend an 8GB class 4 SD card – ideally preinstalled with NOOBS. You can buy a card with NOOBS pre-installed, or you can download it for free from our downloads page.
 
-  ![](images/NOOBS_Card.png)
+  ![](images/NOOBS_Card_small.png)
 
 - **Display** Any HDMI/DVI monitor or TV should work as a display for the Pi. 
 
