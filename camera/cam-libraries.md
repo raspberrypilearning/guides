@@ -1,4 +1,4 @@
-# Using the camera## Using the camera
+# Using the camera
 
 There are libraries avaliable for using the camera in:
 
