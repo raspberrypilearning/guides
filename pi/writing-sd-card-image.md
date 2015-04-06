@@ -27,3 +27,10 @@ It is best to format your SD card before copying the NOOBS files onto it. To do 
 1. The necessary files will then be transferred to your SD card.
 1. When this process has finished, safely remove the SD card and insert it into your Raspberry Pi.
 
+## First time you power on
+
+1. Plug in your keyboard, mouse and monitor  cables.
+1. Now plug in the USB power cable to your Pi.
+1. Your Raspberry Pi will boot, and a window will appear with a list of different operating systems that you can install. We recommend that you use Raspbian – tick the box next to Raspbian and click on `Install`.
+1. Raspbian will then run through its installation process. *Note this can take a while.*
+1. When the install process has completed, the Raspberry Pi configuration menu (`raspi-config`) will load. Here you are able to set the time and date for your region and enable a Raspberry Pi camera board, or even create users. You can exit this menu by using `Tab` on your keyboard to move to `Finish`.
