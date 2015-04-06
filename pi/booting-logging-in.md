@@ -17,6 +17,6 @@ The Raspberry Pi does not have an on or off switch. To power on your Pi:
   ```bash
   pi@raspberrypi~$
   ```
-  This lets you know that you are logged into your Pi. From here you can interact with your computer using only text commands. See [What is the Command Line?](command-line-guide.md)guide to learn more.
+  This lets you know that you are logged into your Pi. From here you can interact with your computer using only text commands. See [The Command Line](command-line-guide.md) guide to learn more.
 
 1. To load the graphical user interface, type `startx` and press `Enter` on your keyboard.
