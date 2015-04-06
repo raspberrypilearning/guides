@@ -4,7 +4,11 @@ Got a Raspberry Pi? Great, let's get started by making sure you have all the cab
 
 ![](images/Raspberry_Pi_B+.png)
 
-## Guides
+## Getting Started Guides
 
 - [Download and install Software](writing-sd-card-image.md)
 - [Plug in the hardware](quick-pi-setup.md)
+- [Booting and logging into your Pi]()
+- [What is the command line?]()
+- [Updating your SD Card]()
+- [Connecting to Wifi]()
