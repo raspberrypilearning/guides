@@ -35,7 +35,7 @@ Watch the following video to see a demonstration of the camera being connected:
 
 There are libraries avaliable for using the camera in:
 
-- [Shell](raspicam/README.md) (Linux command line)
-- [Python](python/README.md)
+- [Shell](http://www.raspberrypi.org/documentation/usage/camera/raspicam/README.md) (Linux command line)
+- [Python](http://www.raspberrypi.org/documentation/usage/camera/python/README.md)
 
 See detailed [technical specs](../../hardware/camera.md) of the camera hardware and software.
