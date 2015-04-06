@@ -8,7 +8,7 @@ Got a Raspberry Pi? Great, let's get started by making sure you have all the cab
 
 - [Download and install Software](writing-sd-card-image.md)
 - [Plug in the hardware](quick-pi-setup.md)
-- [Booting and logging into your Pi]()
-- [What is the command line?]()
+- [Booting and logging into your Pi](booting-logging-in.md)
+- [What is the command line?](command-line-guide.md)
 - [Updating your SD Card]()
 - [Connecting to Wifi]()
