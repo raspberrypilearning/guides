@@ -5,3 +5,5 @@ The Raspberry Pi camera can take full HD 1080p photo and videos. It can also be 
 ![](images/Camera_Module.png)
 
 - [Quick Camera Setup Guide](quick-camera-setup.md)
+- [Programming the Camera Module]()
+- [Pi Noir Camera Setup Guide]()
