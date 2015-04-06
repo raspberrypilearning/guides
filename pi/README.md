@@ -6,5 +6,5 @@ Got a Raspberry Pi? Great, let's get started by making sure you have all the cab
 
 ## Guides
 
--[Downloading and install Software](writing-sd-card-image.md)
--[Plugging in the hardware](quick-pi-setup.md)
+- [Downloading and install Software](writing-sd-card-image.md)
+- [Plugging in the hardware](quick-pi-setup.md)
