@@ -39,7 +39,7 @@ Before you plug anything into your Raspberry Pi, make sure that you have all the
 
   ![](images/Headphones.png)
   
-  ![](images/Speakers.png)
+  ![](images/Speaker.png)
 
 ## Plugging in your Raspberry Pi
 
