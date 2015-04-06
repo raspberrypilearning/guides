@@ -10,5 +10,5 @@ Got a Raspberry Pi? Great, let's get started by making sure you have all the cab
 - [Plug in the hardware](quick-pi-setup.md)
 - [Boot and log in to your Pi](booting-logging-in.md)
 - [The Command Line](command-line-guide.md)
-- [Updating your SD Card]()
-- [Connecting to Wifi]()
+- [Updating your SD Card]() (To do)
+- [Connecting to Wifi]() (Ask S.Long to write based on new GUI)
