@@ -6,4 +6,4 @@ One powerful feature of the Raspberry Pi is the row of GPIO (general purpose inp
 
 ## GPIO Guides
 - [Raspberry Pi Models A and B]()
-- [Raspberry Pi Models A+, B+ and Pi 2]
+- [Raspberry Pi Models A+, B+ and Pi 2](gpio-plus-and-pi2.md)
