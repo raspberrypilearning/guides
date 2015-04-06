@@ -26,7 +26,7 @@ Before you plug anything into your Raspberry Pi, make sure that you have all the
 
 - **Power supply** Use a 5V micro USB power supply to power your Raspberry Pi. Be careful that whatever power supply you use outputs at least 5V; insufficient power will cause your Pi to behave in strange ways.
 
-  ![images/USB_Power_Supply.png]
+  ![](images/USB_Power_Supply.png)
 
 
 ### Not essential but helpful to have:
