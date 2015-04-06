@@ -4,7 +4,7 @@ When programming the GPIO pins there are two different ways to refer to them: GP
 
 #### GPIO numbering
 
-These are the GPIO pins as the computer sees them. The numbers don't make any sense to humans, they jump about all over the place, so there is no easy way to remember them. You will need a printed reference or a reference board that fits over the pins. 
+These are the GPIO pins as the computer sees them. The numbers don't make any sense to humans, they jump about all over the place, so there is no easy way to remember them. However, you can use a printed reference or a reference board that fits over the pins to help you out. 
 
 #### Physical numbering
 
