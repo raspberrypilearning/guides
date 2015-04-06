@@ -3,4 +3,5 @@
 There are a large number of different ways of setting up WiFi on the Raspberry Pi. Here are 3 different ways to configure WiFi.
 
 ## Wifi Guides
+- [Connecting to wifi using the GUI in Raspbian]()
 - [Connecting to wifi from the command line](wifi-cli.md)
