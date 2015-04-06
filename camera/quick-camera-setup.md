@@ -2,6 +2,8 @@
 
 The Raspberry Pi camera can take full HD 1080p photo and videos. It can also be programmed using code. 
 
+![](images/Camera_Module.png)
+
 ## Connecting the camera
 
 1. Take a look at the camera module. You will notice that there is a long white cable running from fromone end of the camera. This is called a flex cable and will connect the cmaera to a Raspberry Pi.
