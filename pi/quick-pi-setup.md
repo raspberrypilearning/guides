@@ -45,11 +45,10 @@ Before you plug anything into your Raspberry Pi, make sure that you have all the
 1. Then connect your HDMI cable from your Raspberry Pi to your monitor or TV.
 1. If you intend to connect your Raspberry Pi to the internet, plug in an ethernet cable into the ethernet port next to the USB ports, otherwise skip this step.
 1. When you are happy that you have plugged in all the cables and SD card required, finally plug in the micro usb power supply. This action will turn on and boot your Raspberry Pi.
-1. If this is the first time your Raspberry Pi and NOOBS SD card have been used, then you will have to select an operating system and configure it. Follow the NOOBS guide to do this.
+1. If this is the first time your Raspberry Pi and NOOBS SD card have been used, then you will have to select an operating system and configure it. Follow the [NOOBS guide](writing-sd-card-image.md) to do this.
 
-## Logging into your Raspberry Pi 
+## What's next?
 
-1. Once your Raspberry Pi has completed the boot process, a login prompt will appear. The default login for Raspbian is username `pi` with the password `raspberry`. *Note you will not see any writing appear when you type the password. This is a security feature in Linux.*
-1. After you have successfully logged in, you will see the command line prompt `pi@raspberrypi~$`
-1. To load the graphical user interface, type `startx` and press `Enter` on your keyboard.
+- [Log into your Raspberry Pi](botting-logging-in.md)
+
 
