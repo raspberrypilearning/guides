@@ -29,11 +29,4 @@ Watch the following video to see a demonstration of the camera being connected:
 
 1. With your keyboard arrows, select `Enable camera` and hit `Enter`, then go to `Finish` and you'll be asked to reboot. Press `Enter` and once the Pi has booted your camera will be ready to use.
 
-## Using the camera
 
-There are libraries avaliable for using the camera in:
-
-- [Shell](http://www.raspberrypi.org/documentation/usage/camera/raspicam/README.md) (Linux command line)
-- [Python](http://www.raspberrypi.org/documentation/usage/camera/python/README.md)
-
-See detailed [technical specs](http://www.raspberrypi.org/documentation/hardware/camera.md) of the camera hardware and software.
