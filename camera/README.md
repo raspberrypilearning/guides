@@ -7,7 +7,7 @@ The Raspberry Pi camera can take full HD 1080p photo and videos. It can also be 
 
 
 ## Pi Noir Camera Module
-![](images/Pi_Noir.png)
+![](images/camera-noir.png)
 Pictured above is the special version of the Raspberry Pi camera board called Pi NoIR. It is identical to the normal green camera but it has no infrared filter, meaning that it lets in infrared light. This camera, combined with an infrared light source, will give you night vision. 
 
 ## Camera Guides
