@@ -1,14 +1,16 @@
-# GPIO: Models A+, B+ and Raspberry Pi 2
+# An introduction to GPIO and physical computing on the Raspberry Pi
 
-### An introduction to GPIO and physical computing on the Raspberry Pi
-
-One powerful feature of the Raspberry Pi is the row of GPIO (general purpose input/output) pins along the top edge of the board.
+One powerful feature of the Raspberry Pi is the row of GPIO (general purpose input/output) pins along the top edge of the board. Models A+, B+ and Pi 2 have 40 pins that look like this:
 
 ![GPIO pins](images/gpio-pins-pi2.jpg)
 
 These pins are a physical interface between the Pi and the outside world. At the simplest level, you can think of them as switches that you can turn on or off (input) or that the Pi can turn on or off (output). Of the 40 pins, 26 are GPIO pins and the others are power or ground pins (plus two ID EEPROM pins which you should not play with unless you know your stuff!)
 
 ![GPIO layout](images/gpio-numbers-pi2.png)
+
+Models A and B have only 26 pins and look like this:
+
+![](images/gpio-pins.jpg)
 
 Note that the numbering of the GPIO pins is rather weird. *Appendix 1: A note on pin numbering*  below explains why.
 
