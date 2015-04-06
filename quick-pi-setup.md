@@ -1,14 +1,16 @@
 # Quick Raspberry Pi Setup Guide
 
+## What you will need:
+
 Before you plug anything into your Raspberry Pi, make sure that you have all the equipment listed here:
 
-## Required:
+### Required:
 - **SD Card** We recommend an 8GB class 4 SD card – ideally preinstalled with NOOBS. You can buy a card with NOOBS pre-installed, or you can download it for free from our downloads page.
 - **Display and connectivity cables** Any HDMI/DVI monitor or TV should work as a display for the Pi . For best results, use one with HDMI input, but other connections are available for older devices. Use a standard Ethernet cable for internet access.
 - **Keyboard and mouse** Any standard USB keyboard and mouse will work with your Raspberry Pi.
 - **Power supply** Use a 5V micro USB power supply to power your Raspberry Pi. Be careful that whatever power supply you use outputs at least 5V; insufficient power will cause your Pi to behave in strange ways.
 
-## Not essential but helpful to have:
+### Not essential but helpful to have:
 
 - **Internet connection** To update or download software, we recommend that you connect your Raspberry Pi to the internet either via and ethernet cable or a wifi adapter.
 - **Headphones or speakers**  Headphones, earphones or speakers with a 3.5mm jack will work with your Raspberry Pi.
