@@ -47,7 +47,7 @@ Before you plug anything into your Raspberry Pi, make sure that you have all the
 1. When you are happy that you have plugged in all the cables and SD card required, finally plug in the micro usb power supply. This action will turn on and boot your Raspberry Pi.
 1. If this is the first time your Raspberry Pi and NOOBS SD card have been used, then you will have to select an operating system and configure it. Follow the [NOOBS guide](writing-sd-card-image.md) to do this.
 
-[![Setting Up Raspberry Pi screenshot](https://i.vimeocdn.com/video/482234224)](https://vimeo.com/91631396)
+[![Setting Up Raspberry Pi screenshot](https://i.vimeocdn.com/video/482234224.webp?mw=520&mh=108)](https://vimeo.com/91631396)
 
 ## What's next?
 
