@@ -67,9 +67,9 @@ You are going to connect your Raspberry Pi to a breadboard to allow you to build
 
 1. With your circuit complete, you are now ready to write some code to switch the LEDs on. Boot your Raspberry Pi, login and type `startx`.
 
-1. Click on the **LXTerminal** application icon on the taskbar. It looks like this:
+1. Click on the **Terminal** application icon on the taskbar or click on the **Menu** followed by **Accessories** and then select **Terminal** with your mouse pointer. The icon for **Terminal** looks like this:
 
-    ![](images/lxterminal-icon.png)
+    ![](images/terminal-icon.png)
 
     Once loaded type `sudo idle3 &` and press enter on the keyboard. This will load the Python 3 programming environment called `IDLE3` as the super user which allows you to create a program that affects the GPIO pins. Once loaded click on **file** and **new window**.
 
