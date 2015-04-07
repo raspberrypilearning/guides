@@ -9,4 +9,4 @@ It is a way in which the Raspberry Pi can control and monitor the outside world 
 ## GPIO Guides
 - [Raspberry Pi GPIO Introduction](gpio-plus-and-pi2.md)
 - [GPIO Pin Numbering](pin-numbering.md)
-- [Connecting and controlling LEDs]()
+- [Connecting and controlling LEDs](connect-leds.md)
