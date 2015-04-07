@@ -1,6 +1,4 @@
-# Connecting and controlling LEDs with Python
-
-## Controling LEDs with Python
+# Connecting and controlling an LED with Python
 
 In this circuit, you will be connecting an LED to the GPIO header of your Raspberry Pi and using Python to turn it on and off.
 
