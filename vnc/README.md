@@ -3,5 +3,5 @@
 ## What is VNC?
 
 
-- [Setting up and using VNC]()
-- [Using VNC through a browser]()
+- [Setting up and using VNC](vnc-classroom-guide.md)
+- [Using VNC through a browser](vnc-browser-guide.md)
