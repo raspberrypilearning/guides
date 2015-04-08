@@ -12,7 +12,7 @@
 
 5.  Find pin 1 and pin 6 on your Raspberry Pi using the diagram below:
 
-    ![](images/gpio.png "The Raspberry Pi GPIO pins")
+    ![](images/finished-circuit.png "The Raspberry Pi GPIO pins")
 
     The general purpose input ouput (GPIO) pins on the Raspberry Pi speak and listen to the outside world and can be          controlled or programmed.  Each pin has a specific role. To make life easier the pins are numbered for reference.         Pin 1 is for power. Pin 6 is for grounding.
 
