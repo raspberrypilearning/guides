@@ -8,9 +8,7 @@
 
     ![](images/Scratch-interface.png "The Scratch Interface")
 
-1.  Click on **control** in the top left display. Drag the **when Sprite1 clicked** block onto the scripts area. Then click on **Sound** and drag the **play sound** block onto the scripts area and connect it to the control block.
-
-    ![](images/play_sound.png "Connecting blocks in Scratch")
+1.  Click on **control** in the top left display. Drag the **when Sprite1 clicked** block onto the scripts area. 
 
 1. Click on the **control** in the blocks palette and drag a **broadcast** block to your scripts area and attach it to the play sound block. Click on the drop down menu on the broadcast block and select **new**.
 
