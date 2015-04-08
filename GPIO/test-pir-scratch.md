@@ -1,4 +1,4 @@
-## Test the pir sesnor in Scratch
+## Test a PIR Montion Sensor in Scratch
 
 Because we are using the GPIO pins, we need to run a special version of Scratch called 'Scratch GPIO 5'. Double-click this icon on the desktop to run it.
 
