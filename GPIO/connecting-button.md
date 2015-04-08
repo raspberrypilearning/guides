@@ -33,7 +33,7 @@ Note that if you have an older Raspberry Pi model you'll only have 26 pins but t
 
 1. Attach a wire to a ground pin on the Raspberry Pi and connect it to the ground rail on your breadboard like so:
 
-    ![](images/gpio-connect-ground .png)
+    ![](images/gpio-connect-ground.png)
 
 1. Place the button on the breadboard and connect one of its feet to the ground rail.
 
