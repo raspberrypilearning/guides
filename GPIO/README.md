@@ -16,3 +16,5 @@ It is a way in which the Raspberry Pi can control and monitor the outside world 
 
 ## Sensor Guides
 - [Connecting a PIR sensor](connect-pir.md)
+- [Test a PIR sensor with Python](test-pir-python.md)
+- [Test a PIR sensor with Scratch](test-pir-scratch.md)
