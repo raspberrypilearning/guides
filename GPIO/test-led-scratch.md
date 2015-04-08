@@ -16,11 +16,9 @@
 
     In the message name box type **pin11on** This instruction will tell the Raspberry Pi to light the LED.
 
-    ![](images/pin11on.png "Sending a broadcast message to turn pin 11 on")
+    ![](images/pin11on.png)
 
 1. Drag a **wait 1 second** block onto the scripts area and connect it to the broadcast block.
-
-1. Test your program by clicking on the robot sprite. You should see the cardboard robot's antenna light shine and stay on.
 
 1. Drag another **broadcast** block onto your scripts area and connect it to the wait 1 second block. Click on the drop down menu on the broadcast block and select **new**.
 
