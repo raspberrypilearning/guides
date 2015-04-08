@@ -1,6 +1,6 @@
 # Breadboard
 
-![](images/breadboard.png =500x)
+![](images/breadboard.png)
 
 You can think of a breadboard as being something like an artist's canvas, but without any of what we create on the canvas being permanent. Whilst it is possible to make a circuit without a breadboard, it keeps components organised rather than being a mess of wires without clear indication of how every wire connects to each other. Secondly, if you were to take a circuit and design it to fit on a PCB, a breadboard allows you to organise components logically before making the design permanent.
 
