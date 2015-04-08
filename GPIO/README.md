@@ -13,7 +13,9 @@ It is a way in which the Raspberry Pi can control and monitor the outside world 
 ## Input and Output Guides
 - [Connecting a push button](connect-button.md)
 - [Connecting LEDs without a breadboard](connect-led.md)
-- [Connecting and controlling LEDs with a breadboard](connect-leds.md)
+- [Connecting an LED with a breadboard](connect-leds.md)
+- [Testing a connected LED in Python](test-led-python.md)
+- [Testing a connected LED in Scratch](test-led-scratch.md)
 
 ## Sensor Guides
 - [Connecting a PIR sensor](connect-pir.md)
