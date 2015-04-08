@@ -2,7 +2,9 @@
 
 1.  Locate the program **Scratch** by clicking on **Menu** followed by **Programming** and selecting **Scratch**. 
 
-  *Our version of Scratch on Raspbian is extra special. It allows you to access and control the GPIO pins. 
+ ![](images/scratch-icon.png)
+
+  *Our version of Scratch on Raspbian is extra special. It allows you to access and control the GPIO pins.* 
 
 1.  If prompted click **OK** when the remote sensor connections are enabled.
 
