@@ -53,6 +53,3 @@
 
 1. It is now the moment of truth! Click on **run** and **run module** to execute (or run) your code. 
 
-## What's next?
-
-Using the circuit diagram below see if you can add the other two LEDs, along with resistors to your circuit. You can use GPIO pins `GPIO 23` for the amber LED and `GPIO 24` for the green LED. 
