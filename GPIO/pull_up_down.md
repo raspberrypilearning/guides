@@ -1,11 +1,8 @@
 ## Pull Up or Pull Down
-In this lesson we are going to make a very basic switch and program the Raspberry Pi to detect its position. The switch could actually just be two jumper wires that you touch together, or it could be a button if you have them. If they are touching the switch is closed, and if not the switch is open.
 
-![](images/jumpers.jpg)
+When a GPIO pin is in input mode the pin is said to be *floating*, meaning that it has no fixed voltage level. The pin will randomly float between `HIGH` and `LOW`. On occasion you might need to fix the voltage level to `HIGH` or `LOW`, for example when...
 
-In the previous lesson we learnt about the concept of `HIGH` and `LOW`. When a GPIO pin is in input mode the pin is said to be *floating*, meaning that it has no fixed voltage level. That's no good for what we want, as the pin will randomly float between `HIGH` and `LOW`. We need to know for sure that the wires have touched. So we need to fix the voltage level to `HIGH` or `LOW`, and then make it change *only* when the we touch the wires together.
-
-We can do this in two ways:
+You can do this in two ways:
 
 - A [pull up circuit](images/pull_up.png) pulls the voltage up to 3.3 volts and reads as `HIGH` by default. When the button is pressed the voltage drops to `LOW`.
 
