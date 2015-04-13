@@ -27,7 +27,7 @@ The top of the back wall does come off if you want to see inside; just pull on t
 1. To connect the rain gauge to the weather station board you will need to first have set up the main [weather station box]()
 1. Locate the socket on the weather station board marked **RAIN SENSOR** and the corresponding grommet.
 1. Unscrew the grommet from the case and thread the rain gauge plug through to the inside of the box.
-![Connecting](rain_connect.jpeg)
+  ![Connecting](rain_connect.jpeg)
 1. Connect the plug to the socket, and tighten up the grommet.
 
 ###When connected the rain gauge uses **GPIO pin 6** (BCM)
