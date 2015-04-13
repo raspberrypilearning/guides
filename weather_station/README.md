@@ -5,23 +5,23 @@ The weather station kit is a HAT for the Raspberry Pi which allows it to collect
 ![Weather Station](images/weather_station_kit.jpg)
 
 ## The Kit
-[Preparation](preparation.md)
-[Assembling the board](assemble.md)
-[Creating a Stevenson Screen](stevenson.md)
+- [Preparation](preparation.md)
+- [Assembling the board](assemble.md)
+- [Creating a Stevenson Screen](stevenson.md)
 
 ## The Sensors
-[Rain Gauge](rain.md)
-[Anemometer](anemometer.md)
-[Wind Vane](wind_vane.md)
-[Temperature Probe](temp.md)
-[Air Quality](air.md)
-[Humidity](humidity.md)
-[Ambient Temperature](ambient_temp.md)
+- [Rain Gauge](rain.md)
+- [Anemometer](anemometer.md)
+- [Wind Vane](wind_vane.md)
+- [Temperature Probe](temp.md)
+- [Air Quality](air.md)
+- [Humidity](humidity.md)
+- [Ambient Temperature](ambient_temp.md)
 
 ## Deployment
-[Software Setup](software.md)
-[Uploading to Oracle](oracle.md)
-[Siting the weather station](siting.md)
+- [Software Setup](software.md)
+- [Uploading to Oracle](oracle.md)
+- [Siting the weather station](siting.md)
 
 ## Teaching Resources
-[Basic Input / Output]()
+- [Basic Input / Output]()
