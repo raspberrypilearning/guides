@@ -8,7 +8,7 @@ Here is the rain gauge sensor supplied with the Raspberry Pi Weather Station kit
 
 We can explore the rain gauge and how it works by removing the bucket, by gently squeezing the clips on either side; the lid should then pop off.
 
-![](images/rain_guage_open.jpg)
+![](images/rain_gauge_open.jpg)
 
 This rain gauge is basically a self-emptying tipping bucket. Rain is collected and channelled into the bucket. Once enough rainwater has been collected the bucket will tip over, the water will drain out from the base, and the opposite bucket will come up into position.
 
