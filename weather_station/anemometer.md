@@ -1,8 +1,8 @@
-# Sensor Name
+# Anemometer
 
-Here is the rain gauge sensor supplied with the Raspberry Pi Weather Station kit
+Here is the anemometer sensor supplied with the Raspberry Pi Weather Station kit
 
-![Rain Gauge]()
+![Anemometer](images/anemometer.jpg)
 
 ## How does it work?
 
