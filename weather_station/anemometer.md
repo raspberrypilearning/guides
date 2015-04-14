@@ -13,11 +13,11 @@ First, hold the base in one hand and pull on the blades/cups with the other hand
 
 Look at the underside of the blades/cups and you'll see a small metal cylinder on one side. This is a magnet, just like the one found on the bucket of the rain gauge. Test it with a paper clip if you like.
 
-	![](images/anemometer_magnet.png)
+![Anemometer Magnet](images/anemometer_magnet.png)
 
 Now use a screwdriver to remove the three screws on the bottom of the base. The base should then pop out easily. Slide it down the cable about 10 to 20 cm to get it out of the way. Now if you look inside you'll see our old friend the reed switch again.
 
-	![](images/anemometer_reed.png)
+![Anemometer Reed](images/anemometer_reed.png)
 
 So what does this mean? When the blades/cups are in their original position and spinning, the magnet will rotate in a tight circle above the reed switch. So for every complete rotation there will be two moments when the switch is closed.
 
