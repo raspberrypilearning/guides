@@ -9,7 +9,7 @@ It is a way in which the Raspberry Pi can control and monitor the outside world 
 ## GPIO Guides
 - [Raspberry Pi GPIO Introduction](gpio-plus-and-pi2.md)
 - [GPIO Pin Numbering](pin-numbering.md)
-- [Pull up and pull down resistors]()
+- [Pull up and pull down resistors](pull_up_down.md)
 
 ## Input and Output Guides
 - [Connecting a push button](connect-button.md)
