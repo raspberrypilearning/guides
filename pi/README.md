@@ -12,3 +12,4 @@ Got a Raspberry Pi? Great, let's get started by making sure you have all the cab
 - [The Command Line](command-line-guide.md)
 - [Updating your SD Card](update-sd-card.md)
 - [Connecting to Wifi]() (Ask S.Long to write based on new GUI)
+- [Installing Applications](install-apps.md)
