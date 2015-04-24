@@ -4,5 +4,5 @@
 - [Camera Module Guide](camera/README.md)
 - [GPIO Guide](GPIO/README.md)
 - [VNC Guide](vnc/README.md)
-- [Weather Station Guide](weather-station/README.md)
+- [Weather Station Guide](weather_station/README.md)
 
