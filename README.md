@@ -5,4 +5,5 @@
 - [GPIO Guide](GPIO/README.md)
 - [VNC Guide](vnc/README.md)
 - [Weather Station Guide](weather_station/README.md)
-
+- [Minecraft Pi Guide](minecraft-pi/README.md)
+- [Astro Pi Guide](astro-pi/README.md)

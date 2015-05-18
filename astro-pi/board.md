@@ -22,3 +22,9 @@ And here is NASA astronaut Reid Wiseman giving a fly-through tour of the ISS
     - Next is a [humidity](http://en.wikipedia.org/wiki/Humidity) sensor. This will allow you to measure air moisture. It's the small chip just below the text `HUMIDITY`. You can also use it to measure ambient temperature.
     - There is also a [ pressure](http://en.wikipedia.org/wiki/Atmospheric_pressure) sensor for measuring air pressure. Something which is certainly of concern in space. It's the chip to the right of the text `PRESSURE`.
     - Last but not least is the joystick. The Astro Pi cannot be connected to a USB keyboard or mouse in space either so it has its own five button joystick. This is the silver rectangle in the bottom right corner with the small stick poking out of the top. It can do up, down, left, right and middle clicks.
+
+##What can I do with it?
+*Section for some examples*
+
+## What's Next?
+Now that you're familar with the board you should [assemble] it and add connect it to your Raspberry Pi
