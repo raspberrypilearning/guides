@@ -8,7 +8,7 @@
 
   Check that these are all present before proceeding.
 1. This diagram shows how it all fits together.
-  ![](../images/Astro_Pi_Diagram.jpg)
+  ![](images/Astro_Pi_Diagram.jpg)
 1. Put the GPIO extension header block onto the Raspberry Pi GPIO pins first.
 1. Then screw the hexagon stand-offs to the Raspberry Pi itself by threading the screws through from the bottom and turning the hexagon stand-offs between finger and thumb.
 1. Next insert the Astro Pi sense HAT onto the GPIO pin extension header. The corner holes should line up with the hexagon stand-offs.
