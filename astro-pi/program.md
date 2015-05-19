@@ -25,4 +25,4 @@
 1. Select `File > Save` and choose a file name for your program.
 1. Then select `Run > Run module`.
 1. Your message should then scroll across the LED matrix in white text.
-1. Feel free to change the message between the double quotes and run your code again.
+1. Feel free to change the message between the double quotation marks and run your code again.
