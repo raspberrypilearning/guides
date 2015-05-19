@@ -1,4 +1,4 @@
-# Astro Pi Hat
+# Astro Pi HAT
 
 ![Astro Pi Logo](images/Astro_Pi_Logo_WEB.png)
 
@@ -6,14 +6,14 @@ This guide is designed to get you up and running with the Astro Pi HAT. It will 
 
 ## Guides:
 
-- [Astro Pi: What Is It?](board.md)
-- [Assemble The Astro Pi](assemble.md)
-- [Software Setup](software.md)
-- [Astro Pi: First Program](program.md)
+- [Astro Pi: what is it?](board.md)
+- [Assemble the Astro Pi](assemble.md)
+- [Software setup](software.md)
+- [Astro Pi: first program](program.md)
 
 ## Where Next?
 
 Now that you have completed this guide you might want to go further:
 
-- [Getting Started with Astro Pi]()
-- [Astro Pi Lessons]()
+- [Getting started with Astro Pi]()
+- [Astro Pi lessons]()
