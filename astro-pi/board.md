@@ -4,7 +4,7 @@ The Astro Pi is a HAT board for the Raspberry Pi which has the ability to sense 
 
 [![Astro Pi Competition](https://i.vimeocdn.com/video/504039170_640.webp)](https://vimeo.com/117274487)
 
-And here is NASA astronaut Reid Wiseman giving a fly-through tour of the ISS:
+Here is NASA astronaut Reid Wiseman giving a fly-through tour of the ISS:
 
 [![Fly-through of the weather station](http://img.youtube.com/vi/kVK20xyfPrU/0.jpg)](https://www.youtube.com/watch?v=kVK20xyfPrU)
 
