@@ -16,7 +16,7 @@
 
 1. First, put the GPIO extension header block onto the Raspberry Pi GPIO pins.
 
-1. Then, screw the hexagon stand-offs to the Raspberry Pi itself, by threading the screws through from the bottom and turning the hexagon stand-offs between finger and thumb.
+1. Screw the hexagon stand-offs to the Raspberry Pi itself, by threading the screws through from the bottom and turning the hexagon stand-offs between finger and thumb.
 
 1. Next, insert the Astro Pi HAT into the GPIO pin extension header. The corner holes should line up with the hexagon stand-offs.
 
