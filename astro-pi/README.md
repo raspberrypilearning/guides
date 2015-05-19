@@ -6,10 +6,10 @@ This guide is designed to get you up and running with the Astro-Pi HAT. It will 
 
 ## Guides:
 
-- [Astro Pi- What Is It?](board.md)
-- [Assemble The Astro Pi](assemble.md)
+- [Astro-Pi: What Is It?](board.md)
+- [Assemble The Astro-Pi](assemble.md)
 - [Software Setup](software.md)
-- [Astro Pi- First Program](program.md)
+- [Astro-Pi: First Program](program.md)
 
 ## Where Next?
 
