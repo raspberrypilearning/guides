@@ -1,4 +1,4 @@
-# Astro Pi - What is it?
+# Astro Pi: What is it?
 
 The Astro Pi is a HAT board for the Raspberry Pi which has the ability to sense a wide variety of conditions and provide output via the built-in LED matrix. Two Astro Pis will be travelling to the International Space Station (ISS) with British ESA astronaut Tim Peake. You can find out more about the mission and the board by watching the official Astro Pi competition video:
 
