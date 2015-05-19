@@ -1,6 +1,6 @@
 # Astro Pi - First Program
 
-1. Connect the Raspberry Pi peripherals (keyboard, mouse, monitor and power).
+1. Connect the Raspberry Pi peripherals (keyboard, mouse, monitor, and power).
 1. Log in using the following login information:
 
   ```bash
@@ -8,9 +8,10 @@
   password: raspberry
   ```
 
-  You will not see any text when typing the password, this is a security feature. Just type it blind.
+  You will not see any text when typing the password; this is a security feature.
+  
 1. Load the graphical user interface by typing `startx`.
-1. Open the Python 3 using `Menu > Programming > Python 3`.
+1. Open Python 3 using `Menu > Programming > Python 3`.
 1. A Python Shell window will now appear.
 1. Select `File > New Window`.
 1. Type in the following code:
