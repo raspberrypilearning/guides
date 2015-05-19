@@ -4,7 +4,7 @@ This guide assumes you have an SD card with loaded with NOOBS/Raspbian. If not, 
 
 [Connect](assemble.md) your Astro Pi HAT and boot it up.
 
-## Astro Pi Driver Installation
+## Astro Pi driver installation
 
 Ensure your Pi is connected to the internet, then run the following command (from the command prompt or a Terminal window) to download and start the Astro Pi installation script:
 
