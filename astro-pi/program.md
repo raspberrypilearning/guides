@@ -4,7 +4,7 @@
 1. Log in using the following login information:
 
   ```bash
-  Login: pi
+  login: pi
   password: raspberry
   ```
 
