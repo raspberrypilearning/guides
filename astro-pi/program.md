@@ -1,4 +1,4 @@
-# Astro Pi - First Program
+# Astro Pi: first Program
 
 1. Connect the Raspberry Pi peripherals (keyboard, mouse, monitor, and power).
 1. Log in using the following login information:
