@@ -24,6 +24,6 @@
 
 1. Use a small Phillips screwdriver to tighten each corner stand-off individually. It doesn't need to be especially tight, just enough to ensure it doesn't become loose.
 
-## What's Next
+## What's Next?
 
 Now that you have assembled your Astro Pi board, you will need to complete the [Software setup](software.md).
