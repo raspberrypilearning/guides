@@ -23,7 +23,7 @@ We can do this in two ways:
 > We'd never know whether the gate was being opened or closed as it could constantly swing gently between these two posistions.  
 > If we were to add a spring to the gate to pull it closed, the gate would be held in place, except for a deliberate push which could open it.
 >  
-> In this situation the Gate's position represents the Voltage which can fluctuate, the spring represents the resistor which fixes the voltage either **high* or** low*.
+> In this situation the Gate's position represents the Voltage which can fluctuate, the spring represents the resistor which fixes the voltage either **high** or **low**.
 
 
 Fortunately, the Raspberry Pi has all the above circuitry built in. It can be helpful to imagine that the two resistors `R1` and `R2` from the diagrams above are *inside* the circuitry of the Raspberry Pi and they can be enabled or disabled as we desire. We can select either a pull up or a pull down *in our code* for each GPIO pin. 
