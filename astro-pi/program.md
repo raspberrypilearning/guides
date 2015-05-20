@@ -1,7 +1,6 @@
 # Astro Pi: first program
 
-1. Connect the Raspberry Pi peripherals (keyboard, mouse, monitor, and power).
-1. Log in using the following login information:
+Connect the Raspberry Pi peripherals (keyboard, mouse, monitor, and power), and log in using the following login information:
 
   ```bash
   login: pi
@@ -10,11 +9,7 @@
 
   You will not see any text when typing the password; this is a security feature.
   
-1. Load the graphical user interface by typing `startx`.
-1. Open Python 3 using `Menu > Programming > Python 3`.
-1. A Python Shell window will now appear.
-1. Select `File > New Window`.
-1. Type in the following code:
+Load the graphical user interface by typing `startx`. Now, open Python 3 using `Menu > Programming > Python 3`. This will cause a Python Shell window to appear. Select `File > New Window`, and type in the following code:
 
   ```python
   from astro_pi import AstroPi
@@ -22,7 +17,6 @@
   ap.show_message("Hello my name is Tim Peake")
   ```
 
-1. Select `File > Save` and choose a file name for your program.
-1. Then select `Run > Run module`.
-1. Your message should then scroll across the LED matrix in white text.
-1. Feel free to change the message between the double quotation marks and run your code again.
+Select `File > Save` and choose a file name for your program, then select `Run > Run module`. Your message should then scroll across the LED matrix in white text.
+
+Why not try changing the message between the double quotation marks and running your code again? 
