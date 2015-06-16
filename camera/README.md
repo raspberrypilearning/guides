@@ -14,16 +14,20 @@ Pictured above is the special version of the Raspberry Pi camera board called Pi
 
 ## Camera Guides
 - [Quick Camera Setup Guide](quick-camera-setup.md)
+- [Test Camera](test-camera.md)
 
 ## Programming the Camera Module
 - [Camera Libraries](cam-libraries.md)
 
-###Python
+### Python
 - [Capture an image](capture-python.md)
 - [Capture an image when activated](activated-capture-python.md)
 - [Capture an image after a countdown](countdown-capture-python.md)
 - [Capture video](camcorders-python.md)
 - [Record circular buffers](circular-buffers.md)
+
+### Bash
+-[Capture an image](capture-bash.md)
 
 ## Project Ideas
 - [Time lapse photography](time-lapse.md)
