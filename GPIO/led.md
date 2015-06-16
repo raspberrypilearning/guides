@@ -1,6 +1,6 @@
 # What is an LED?
 
-![]()images/led.png
+![](images/led.png)
 
 LED stands for Light Emitting Diode, and glows when electricity is passed through it. When you pick up the LED, you will notice that one leg is longer than the other.The longer leg (known as the `anode`), is always connected to the positive supply of the circuit. The shorter leg (known as the `cathode`) is connected to the negative side of the power supply, known as `ground`.LEDs will only work if power is supplied the correct way round (i.e. if the `polarity` is correct).  You will not break the LEDs if you connect them the wrong way round, they simply will not glow.If you find that they do not light in your circuit, it may be because they have been connected the wrong way round.
 
