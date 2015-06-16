@@ -15,7 +15,10 @@ Pictured above is the special version of the Raspberry Pi camera board called Pi
 ## Camera Guides
 - [Quick Camera Setup Guide](quick-camera-setup.md)
 
-## Programming the Camera Module with Python
+## Programming the Camera Module
+- [Camera Libraries](cam-libraries.md)
+
+###Python
 - [Capture an image](capture-python.md)
 - [Capture an image when activated](activated-capture-python.md)
 - [Capture an image after a countdown](countdown-capture-python.md)
