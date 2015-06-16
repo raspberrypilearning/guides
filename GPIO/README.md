@@ -12,7 +12,7 @@ It is a way in which the Raspberry Pi can control and monitor the outside world 
 - [Pull up and pull down resistors](pull_up_down.md)
 
 ## Input and Output Guides
-- [Connecting a push button](connect-button.md)
+- [Connecting a push button](connecting-button.md)
 - [Connecting LEDs without a breadboard](connect-led.md)
 - [Connecting an LED with a breadboard](connect-leds.md)
 - [Testing a connected LED in Python](test-led-python.md)
