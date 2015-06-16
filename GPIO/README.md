@@ -11,24 +11,24 @@ It is a way in which the Raspberry Pi can control and monitor the outside world 
 - [GPIO Pin Numbering](pin-numbering.md)
 - [Pull up and pull down resistors](pull_up_down.md)
 
-## Component Guides
+## Components
 - [What is a breadboard?](breadboard.md)
 - [What is a resistor?](resistor.md)
 
-### Input Guides
+### Inputs
 - [Connecting a push button](connecting-button.md)
  
-### Output Guides
+### Outputs
 - [What is an LED?](led.md)
 - [Connecting LEDs without a breadboard](connect-led.md)
 - [Connecting an LED with a breadboard](connect-leds.md)
 - [Testing a connected LED in Python](test-led-python.md)
 - [Testing a connected LED in Scratch](test-led-scratch.md)
 
-## Motor Guides
+## Motors
 - [What is a geared motor?]()
 
-## Sensor Guides
+## Sensors
 
 ### Motion Sensors
 - [What is a PIR Motion Sensor?](pir.md)
