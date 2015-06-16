@@ -13,17 +13,24 @@ It is a way in which the Raspberry Pi can control and monitor the outside world 
 
 ## Component Guides
 - [What is a breadboard?](breadboard.md)
+- [What is a resistor?](resistor.md)
 
-### Input and Output Guides
+### Input Guides
 - [Connecting a push button](connecting-button.md)
+- 
+### Output Guides
+- [What is an LED?](led.md)
 - [Connecting LEDs without a breadboard](connect-led.md)
 - [Connecting an LED with a breadboard](connect-leds.md)
 - [Testing a connected LED in Python](test-led-python.md)
 - [Testing a connected LED in Scratch](test-led-scratch.md)
 
-### Sensor Guides
+## Motor Guides
+- [What is a geared motor?]()
 
-#### Motion Sensors
+## Sensor Guides
+
+### Motion Sensors
 - [What is a PIR Motion Sensor?](pir.md)
 - [Connecting a PIR sensor](connect-pir.md)
 - [Test a PIR sensor with Python](test-pir-python.md)
