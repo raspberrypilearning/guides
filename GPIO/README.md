@@ -17,7 +17,7 @@ It is a way in which the Raspberry Pi can control and monitor the outside world 
 
 ### Input Guides
 - [Connecting a push button](connecting-button.md)
-- 
+ 
 ### Output Guides
 - [What is an LED?](led.md)
 - [Connecting LEDs without a breadboard](connect-led.md)
