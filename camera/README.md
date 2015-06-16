@@ -27,7 +27,8 @@ Pictured above is the special version of the Raspberry Pi camera board called Pi
 - [Record circular buffers](circular-buffers.md)
 
 ### Bash
--[Capture an image](capture-bash.md)
+- [Capture an image](capture-bash.md)
+- [Schedule image capture](schedule-capture-bash.md)
 
 ## Project Ideas
 - [Time lapse photography](time-lapse.md)
