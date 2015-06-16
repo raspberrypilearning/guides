@@ -12,6 +12,7 @@ It is a way in which the Raspberry Pi can control and monitor the outside world 
 - [Pull up and pull down resistors](pull_up_down.md)
 
 ## Component Guides
+- [What is a breadboard?](breadboard.md)
 
 ### Input and Output Guides
 - [Connecting a push button](connecting-button.md)
