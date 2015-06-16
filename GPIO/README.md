@@ -11,16 +11,18 @@ It is a way in which the Raspberry Pi can control and monitor the outside world 
 - [GPIO Pin Numbering](pin-numbering.md)
 - [Pull up and pull down resistors](pull_up_down.md)
 
-## Input and Output Guides
+## Component Guides
+
+### Input and Output Guides
 - [Connecting a push button](connecting-button.md)
 - [Connecting LEDs without a breadboard](connect-led.md)
 - [Connecting an LED with a breadboard](connect-leds.md)
 - [Testing a connected LED in Python](test-led-python.md)
 - [Testing a connected LED in Scratch](test-led-scratch.md)
 
-## Sensor Guides
+### Sensor Guides
 
-### Motion Sensors
+#### Motion Sensors
 - [What is a PIR Motion Sensor?](pir.md)
 - [Connecting a PIR sensor](connect-pir.md)
 - [Test a PIR sensor with Python](test-pir-python.md)
