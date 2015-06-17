@@ -29,6 +29,7 @@ Pictured above is the special version of the Raspberry Pi camera board called Pi
 ### Bash
 - [Capture an image](capture-bash.md)
 - [Schedule image capture](schedule-capture-bash.md)
+- [Turn still images into a video](image-2-video.md)
 
 ## Project Ideas
 - [Time lapse photography](time-lapse.md)
