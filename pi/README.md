@@ -16,3 +16,6 @@ Got a Raspberry Pi? Great, let's get started by making sure you have all the cab
 
 ## Command Line
 - [The Command Line](command-line-guide.md)
+- [Commands to navigate the file system](navigating-the-file-system.md)
+- [Files and directory commands](files-directories.md)
+- [Commands to read and edit files](read-edit-cl.md)
