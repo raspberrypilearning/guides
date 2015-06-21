@@ -1,5 +1,9 @@
 # Commands to navigate the file system from the command line
 
+When you log into a Pi and open a terminal window, or you boot to the command line instead of the graphical user interface, you start in your home folder; this is located at `/home/pi`, assuming your username is `pi`.
+
+This is where the user's own files are kept. In this case you are the user called `pi`. The contents of the user's desktop is in a directory here called Desktop, along with other files and folders.
+
 Here are some helpful commands to use on the command line or terminal window in Raspbian that allow you to naviagte around the file system on your Raspberry Pi.
 
 ## ls
