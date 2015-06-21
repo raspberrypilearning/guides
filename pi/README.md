@@ -4,15 +4,15 @@ Got a Raspberry Pi? Great, let's get started by making sure you have all the cab
 
 ![](images/Raspberry_Pi_B+.png)
 
-## Getting Started Guides
+## Getting Started with Raspberry Pi
 
-- [Download and install Software](writing-sd-card-image.md)
-- [Plug in the hardware](quick-pi-setup.md)
-- [Boot and log in to your Pi](booting-logging-in.md)
-- [Updating your SD Card](update-sd-card.md)
-- [Checking free space on SD card](checking-sd-space.md)
-- [Connecting to Wifi]() (Ask S.Long to write based on new GUI)
-- [Installing Applications](install-apps.md)
+1. [Download and install Software](writing-sd-card-image.md)
+1. [Plug in the hardware](quick-pi-setup.md)
+1. [Boot and log in to your Pi](booting-logging-in.md)
+1. [Updating your SD Card](update-sd-card.md)
+1. [Checking free space on SD card](checking-sd-space.md)
+1. [Connecting to Wifi](wifi.md)
+1. [Installing Applications](install-apps.md)
 
 ## Command Line
 - [The Command Line](command-line-guide.md)
