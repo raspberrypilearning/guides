@@ -6,8 +6,6 @@ If you've never played minecraft before here's the place to start. The guide bel
 
 [![Introduction to Minecraft Pi](http://img.youtube.com/vi/UVaUCNHq5Jo/mqdefault.jpg)](https://www.youtube.com/watch?v=UVaUCNHq5Jo)
 
-https://www.youtube.com/edit?o=U&video_id=E4OODVwvRWo
-
 [![Introduction to Minecraft Pi](http://img.youtube.com/vi/UVaUCNHq5Jo/0.jpg)](http://www.youtube.com/watch?v=UVaUCNHq5Jo)
 
 ## Launching Minecraft
