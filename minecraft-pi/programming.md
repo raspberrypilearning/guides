@@ -15,4 +15,3 @@ The key points mentioned in the video are:
 ##What Next?
 - Follow the [Getting started with Minecraft & Python](https://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/) resource which will show you how to control your Minecraft world.
 
-[![Decoding a weather forecast](http://img.youtube.com/vi/lITCF3UPVu4/0.jpg)](http://www.youtube.com/watch?v=lITCF3UPVu4)
