@@ -12,10 +12,8 @@ Using this guide you will learn how to control the minecraft player and write a 
 
 
 ## Programming guides
-- [First Python / minecraft program](python.md)
-- [First Sonic Pi / mincraft program](sonic-pi.md)
+- [How to play and program Minecraft at the same time](programming.md)
 
 
 ## Where next?
 - [Getting started with Python & Minecraft Pi](https://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/)
-- [Getting started with Sonic Pi & Minecraft Pi](https://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/)
