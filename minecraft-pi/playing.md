@@ -4,7 +4,7 @@
 
 If you've never played minecraft before here's the place to start. The guide below explains how to get started playing minecraft, or you could watch this video.
 
-[![Introduction to Minecraft Pi](http://img.youtube.com/vi/UVaUCNHq5Jo/mqdefault.jpg)](https://www.youtube.com/watch?v=UVaUCNHq5Jo)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FSKXEQQXIj4" frameborder="0" allowfullscreen></iframe>
 
 ## Launching Minecraft
 
