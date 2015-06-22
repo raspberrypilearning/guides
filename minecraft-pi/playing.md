@@ -2,9 +2,9 @@
 
 ![Minecraft Pi banner](images/minecraft-pi-banner.png)
 
-If you've never played minecraft before here's the place to start. The guide below explains how to get started playing minecraft, or you could watch this video
+If you've never played minecraft before here's the place to start. The guide below explains how to get started playing minecraft, or you could watch this video.
 
-[![Introduction to Minecraft Pi](http://img.youtube.com/vi/UVaUCNHq5Jo/0.jpg)](https://www.youtube.com/watch?v=UVaUCNHq5Jo)
+[![Introduction to Minecraft Pi](http://img.youtube.com/vi/UVaUCNHq5Jo/mqdefault.jpg)](https://www.youtube.com/watch?v=UVaUCNHq5Jo)
 
 ## Launching Minecraft
 
