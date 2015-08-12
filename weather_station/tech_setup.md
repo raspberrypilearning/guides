@@ -309,6 +309,102 @@ The HAT has many sensors on the board, and several external sensors which connec
 BREAK HERE - 
 ---
 
+## Assembling the Main Case.
+1. Unpack the large grey case, and remove the 4 screws from inside and set them to one side. They are used for securing the lid at the end.
+
+[]()
+
+1. For this stage you will need:
+  1. The large case
+  2. 6 x 10mm screws
+  3. Your acrylic mounted Raspberry Pi and Weather HAT
+
+[]()
+
+1. Fix the acryrlic base to the bottom of the case, using the 6 x 10mm screws
+
+[]()
+
+
+## Attaching the rain gauge and wind vain
+
+1. Now you can attach the rain gauge. Remove the rubber seal from the side of the case.
+
+[]()
+
+1. Remove the 12mm plastic nut from the gromit on the rain gauge RJ11 cable
+
+[]()
+
+1. Using the nut as a guide, mark the seal with a 10mm (approx) circle.
+
+[]()
+[]()
+
+1. Use a scalpel or sharp knife to cut a hole through the seal.
+
+[]()
+
+1. Push the end of the RJ11 cable through the seal.
+
+[]()
+
+2. Push the threaded end of the gromit through the seal, twisting might make this easier.
+
+[]()
+
+1. Feed the plastic nut back onto the RJ11 cable and thread it onto the gromit.
+
+[]()
+
+1. Push the seal back into the case.
+
+[]()
+
+2. Repeat the previous steps for the wind vain.
+
+1. Connect the RJ11 cables to the Weather HAT.
+
+[]()
+
+1. Tighten the outer end of the grommit so it grips the cable and forms a water-tight seal.
+
+## Setting up the air sensor housing.
+
+1. For this you will need:
+  1. 4 x Plastic Fixing Screws
+  2. 4 x Plastic Spacers
+  3. 4 x Plastic Fixing Nuts
+  4. Small acrylic base
+  5. Small air sensor housing.
+  6. 2 x Mounting Screws
+
+[]()
+
+1. Align the air sensor board with the acrylic base as shown.
+
+[]()
+
+1. Using the plastic spacers to keep the board away from the acrylic base, fix it in place using the fixing screws and nuts.
+
+[]()
+
+1. Mount the acrylic base into the housing as shown below.
+
+[]()
+
+1. Conect the RJ11 cables from the Rasberry Pi housing and the temperature probe to the air sensor module.
+
+[]()
+
+TODO
+ - Connecting air sensor via gromit
+ - Connecting ethernet
+ - Mounting feet
+ - Placement
+ - 
+
+
 ## Setting up the datalogging
 
 1. Set the Weather Station daemon to automatically start at boot time.
