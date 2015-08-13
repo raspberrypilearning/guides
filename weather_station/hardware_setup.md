@@ -23,42 +23,42 @@ Mounting the Raspberry Pi
     The power connector on the Raspberry Pi should be orientated to
     match the cut-out in the acrylic base.
 
-![](file:images/Orientated_Pi.jpg)
+![](images/Orientated_Pi.jpg)
 
 1.  Feed an 8mm screw through the underside of the acrylic base and the
     Raspberry Pi, and secure with a hex spacer.
 
-![](file:images/Secure_Pi.jpg)
+![](images/Secure_Pi.jpg)
 
 1.  Repeat this step for the remaining screws and spacers.
 
-![](file:images/Secured_Pi.jpg)
+![](images/Secured_Pi.jpg)
 
 1.  Attach the 40 pin extender to the the Raspberry Pi
 
-![](file:images/Attach_Extender.jpg)
+![](images/Attach_Extender.jpg)
 
 1.  Take the Weather Station Hat and carefully snap it in two, along one
     of the scored lines.
 
-![](file:images/Snap_WSH1.jpg)
+![](images/Snap_WSH1.jpg)
 
 1.  Use pliers to remove the remaining section of the HAT.
 
-![](file:images/Snap_WSH2.jpg) ![](file:images/Two_Halves.jpg)
+![](images/Snap_WSH2.jpg) ![](images/Two_Halves.jpg)
 
 1.  Insert the coin cell battery with the positive side facing upwards
     into the HAT.
 
-![](file:images/Coin_Cell.jpg)
+![](images/Coin_Cell.jpg)
 
 1.  Attach the HAT to the Raspberry Pi.
 
-![](file:images/Attach_Hat.jpg)
+![](images/Attach_Hat.jpg)
 
 1.  Secure the hat using the 6mm screws.
 
-![](file:images/Secure_Hat.jpg)
+![](images/Secure_Hat.jpg)
 
     You can connect a Keyboard, Monitor and Mouse, along with Power at this point and proceed to installing and configuring software, then return to this guide later when you are ready to finish assembling the Weather Station. Alternatively, you can continue working through this guide and proceed to the Software setup at a later time.
 
@@ -74,30 +74,30 @@ Providing Power and Network Connectivity.
     4.  A CAT5 cable, long enough to reach the area you wish to place
         the Weather Station. (**Not Supplied**)
 
-![](file:images/Power_Kit.jpg)
+![](images/Power_Kit.jpg)
 
 1.  Connect your keyboard, screen and mouse to your Raspberry Pi.
 
-![](file:images/KVM.jpg)
+![](images/KVM.jpg)
 
 1.  Connect the PoE splitter to the Pi and the HAT.
 
-![](file:images/Splitter_Power.jpg) ![](file:images/Splitter_Eth.jpg)
+![](images/Splitter_Power.jpg) ![](images/Splitter_Eth.jpg)
 
 1.  Connect the PoE splitter to the PoE injector using the CAT5 Ethernet
     cable.
 
-![](file:images/Connect_Splitter.jpg)
+![](images/Connect_Splitter.jpg)
 
 1.  1.  Connect the PoE injector to the transformer, with the
         appropriate adaptor attached.
 
-![](file:images/Power_Splitter.jpg)
+![](images/Power_Splitter.jpg)
 
 1.  Plugin the power adaptor and Ethernet cable to check that the Pi is
     receiving power and connectivity.
 
-![](file:images/Powered_Station.jpg)
+![](images/Powered_Station.jpg)
 
 Connecting the sensors
 ----------------------
@@ -129,29 +129,29 @@ Setting up the air sensor housing.
     5.  Small air sensor housing.
     6.  2 x Mounting Screws
 
-![](file:images/Air_Kit.jpg)
+![](images/Air_Kit.jpg)
 
 1.  Align the air sensor board with the acrylic base as shown.
 
-![](file:images/Align_Air.jpg)
+![](images/Align_Air.jpg)
 
 1.  Using the plastic spacers to keep the board away from the acrylic
     base, fix it in place using the fixing screws and nuts.
 
-![](file:images/Secure_Air.jpg)
+![](images/Secure_Air.jpg)
 
 1.  Mount the acrylic base into the housing as shown below.
 
-![](file:images/Mount_Air.jpg)
+![](images/Mount_Air.jpg)
 
 1.  Remove two rubber seals, opposite the RJ11 sockets.
 
-![](file:images/Remove_Plugs.jpg)
+![](images/Remove_Plugs.jpg)
 
 1.  Connect an RJ11 cables and the temperature probe to the air sensor
     module as shown below.
 
-![](file:images/Connect_Air.jpg)
+![](images/Connect_Air.jpg)
 
 Assembling the Control Unit Housing
 -----------------------------------
@@ -159,7 +159,7 @@ Assembling the Control Unit Housing
 1.  Unpack the large grey case, and remove the 4 screws from inside and
     set them to one side. They are used for securing the lid at the end.
 
-![](file:images/Main_Housing.jpg)
+![](images/Main_Housing.jpg)
 
 1.  For this stage you will need:
 
@@ -167,12 +167,12 @@ Assembling the Control Unit Housing
     2.  6 x 10mm screws
     3.  Your acrylic mounted Raspberry Pi and Weather HAT
 
-![](file:images/Housing_Kit.jpg)
+![](images/Housing_Kit.jpg)
 
 1.  Fix the acrylic base to the bottom of the case, using the 6 x 10mm
     screws
 
-![](file:images/Fix_Base.jpg)
+![](images/Fix_Base.jpg)
 
 Water-proofing the Control Unit connections.
 --------------------------------------------
@@ -180,49 +180,49 @@ Water-proofing the Control Unit connections.
 1.  Now you can attach the rain gauge. Remove the rubber seal from the
     side of the case.
 
-![](file:images/Remove_Seal.jpg)
+![](images/Remove_Seal.jpg)
 
 1.  Remove the 12mm plastic nut from the grommet on the rain gauge RJ11
     cable
 
-![](file:images/Remove_Nut.jpg)
+![](images/Remove_Nut.jpg)
 
 1.  Using the nut as a guide, mark the seal with a 10mm (approx) circle.
 
-![](file:images/Draw_Circle.jpg) ![](file:images/Complete_Circle.jpg)
+![](images/Draw_Circle.jpg) ![](images/Complete_Circle.jpg)
 
 1.  Use a scalpel or sharp knife to cut a hole through the seal.
 
-![](file:images/Cut_Circle.jpg)
+![](images/Cut_Circle.jpg)
 
 1.  Push the end of the RJ11 cable through the seal.
 
-![](file:images/Push_Through.jpg)
+![](images/Push_Through.jpg)
 
 1.  Push the threaded end of the grommet through the seal, twisting
     might make this easier.
 
-![](file:images/Twisting_Through.jpg)
+![](images/Twisting_Through.jpg)
 
 1.  Feed the plastic nut back onto the RJ11 cable and thread it onto the
     grommet.
 
-![](file:images/Plastic_Nut.jpg)
+![](images/Plastic_Nut.jpg)
 
 1.  Push the seal back into the case.
 
-![](file:images/Fit_Seal.jpg)
+![](images/Fit_Seal.jpg)
 
 1.  Repeat the previous steps for the wind vain.
 
 2.  Connect the RJ11 cables to the Weather HAT.
 
-![](file:images/Attach_RJ11.jpg)
+![](images/Attach_RJ11.jpg)
 
 1.  Tighten the outer end of the grommet so it grips the cable and forms
     a water-tight seal.
 
-![](file:images/Fix_Grommit.jpg)
+![](images/Fix_Grommit.jpg)
 
 TODO Air Sensor Grommet
 -----------------------
