@@ -35,7 +35,7 @@ I2C kernel module will now be loaded by default
 Would you like to reboot now?
 ```
 1. Select `Yes` and press `Enter`
-```
+
 
 Setting up the Real Time Clock
 --------------------------------
@@ -45,7 +45,7 @@ Setting up the Real Time Clock
 cd ~ && git clone https://github.com/raspberrypi/weather-station
 ```
 
-1. In the repo you'll find an install script to set up the Real Time Clock. You can run this file, or alternatively follow the instructions below. If you choose to run the install script then once complete you can skip down to *Setting up the Database*
+1. In the repo you'll find an install script to set up the Real Time Clock. You can run this file, or alternatively follow the instructions below. If you choose to run the install script then once complete you can skip down to [Setting up the Database](to be added)
 
 ```bash
 ./weather-station/install.sh
