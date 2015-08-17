@@ -1,34 +1,55 @@
 Software Setup
 ==============
 
-Setting up the Real Time Clock
+Setting up the I2C
 ------------------------------
 
 1.  Start with a fresh install of the latest version of [Raspbian](LINK
-    TO BE ADDED).
-2.  When booting for the first time, you will be presented with the
+TO BE ADDED).
+1.  When booting for the first time, you will be presented with the
     raspi-config menu.
-3.  The Weather Station requires the
+1.  The Weather Station requires the
     [I²C](<https://en.wikipedia.org/wiki/I%C2%B2C>) communication
     protocol to be enabled on your Raspberry Pi. To do this:
 
-<!-- -->
+1. Select `Advanced Options` and press `Enter`
+1. Select `I2C` and press `Enter`
+```
+Would you like the ARM I2C interface to be enabled?
+```
+1. Select  `Yes` and press `Enter`
+```
+The ARM I2C interface is enabled
+```
+1.  Select `Ok` and press `Enter`
+```
+Would you like the I2C kernel module to be loaded by default?
+```
+1. Select `Yes` and press `Enter`
+```
+I2C kernel module will now be loaded by default
+```
+1. Select `Ok` and press `Enter`
+1. Select `Finish` from the main menu and press `Enter`
+```
+Would you like to reboot now?
+```
+1. Select `Yes` and press `Enter`
+```
 
-      Select `Advanced Options` and press `Enter`
+Setting up the Real Time Clock
+--------------------------------
+1. First you'll need the Weather Station repository.
 
-      Select `I2C` and press `Enter`
+``` {.bash}
+cd ~ && git clone https://github.com/raspberrypi/weather-station
+```
 
-      Would you like the ARM I2C interface to be enabled? `Yes` > `Enter`
+1. In the repo you'll find an install script to set up the Real Time Clock. You can run this file, or alternatively follow the instructions below. If you choose to run the install script then once complete you can skip down to *Setting up the Database*
 
-      The ARM I2C interface is enabled `Ok` > `Enter`
-
-      Would you like the I2C kernel module to be loaded by default? `Yes` > `Enter`
-
-      I2C kernel module will now be loaded by default `Ok` > `Enter`
-
-      Select `Finish` from the main menu and press `Enter`
-
-      Would you like to reboot now? `Yes` > `Enter`
+```bash
+./weather-station/install.sh
+```
 
 1.  First you want to make sure you have all the latest updates for your
     Raspberry Pi.
@@ -172,25 +193,25 @@ sudo apt-get install i2c-tools python-smbus telnet -y
 sudo i2cdetect -y 1
 ```
 
-      Expected output:
+Expected output:
 
-      ```
-           0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
-      00:          -- -- -- -- -- -- -- -- -- -- -- -- -- 
-      10: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
-      20: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
-      30: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
-      40: 40 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
-      50: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
-      60: -- -- -- -- -- -- -- -- UU 69 6a -- -- -- -- -- 
-      70: -- -- -- -- -- -- -- 77                         
-      ```
+```
+	 0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
+00:          -- -- -- -- -- -- -- -- -- -- -- -- -- 
+10: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+20: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+30: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+40: 40 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+50: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+60: -- -- -- -- -- -- -- -- UU 69 6a -- -- -- -- -- 
+70: -- -- -- -- -- -- -- 77                         
+```
 
-      - `40` = HTU21D. Humidity and temperature sensor.
-      - `77` = BMP180. Barometric pressure sensor.
-      - `68` = PCF8523. Real Time Clock, it will show as `UU` because it's reserved by the driver.
-      - `69` = MCP3427. Analogue to Digital Converter on main board.
-      - `6a` = MCP3427. Analogue to Digital Converter on snap off AIR board (not present on prototype version).
+- `40` = HTU21D. Humidity and temperature sensor.
+- `77` = BMP180. Barometric pressure sensor.
+- `68` = PCF8523. Real Time Clock, it will show as `UU` because it's reserved by the driver.
+- `69` = MCP3427. Analogue to Digital Converter on main board.
+- `6a` = MCP3427. Analogue to Digital Converter on snap off AIR board (not present on prototype version).
 
-      Note: `40`, `77` and `6a` will only show if you have connected the **AIR** board to the main board.
+Note: `40`, `77` and `6a` will only show if you have connected the **AIR** board to the main board.
 
