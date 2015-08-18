@@ -2,7 +2,7 @@
 
 The Temperature sensor is integrated into the 
 
-![Temperature probe]()
+![Temperature probe](images/temperature.jpg)
 
 ## How does it work?
 
@@ -11,10 +11,12 @@ The Temperature sensor is integrated into the
 ## How does the sensor connect?
 
 To connect the temperature sensor, you will fist have to have set up the main weather station box and the air sensor board.
+
 1. Locate the socket on the air sensor board labeled Temperature Probe
+
 2. The Temperature probe can be directly connected into this socket.
 
-### When connected the temperature read by the probe is written to a file in /sys
+*When connected the temperature rcorded by the probe is written to a file in /sys*
 
 ## Sample Code
 
@@ -62,5 +64,5 @@ with open("/sys/bus/w1/devices/"+directory+"/w1_slave") as file:
 	#Extract the numerical value and convert to a float
     temperature = float(temp[position:].rstrip())
 	print(float(temperature)/1000)
-	```
+```
 	
