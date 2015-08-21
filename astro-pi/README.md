@@ -2,7 +2,7 @@
 
 ![Astro Pi Logo](images/Astro_Pi_Logo_WEB.png)
 
-This guide is designed to get you up and running with the Astro Pi HAT. It will introduce you to what the board does, how to set it up, and how to write your first program.
+This guide is designed to get you up and running with the Sense HAT. It will introduce you to what the board does, how to set it up, and how to write your first program.
 
 ## Guides:
 
