@@ -11,5 +11,7 @@ If you are happy to give your password to those that you want to share files wit
 2. The users you want to share the files with also need to open up LXTerminal. They can then type the following command to copy the file via the ssh protocol, but the IP address and filenames obviously need to be ammended for your situation. 
 
 		```bash
-		scp 192.168.1.123:~/path/to/file ~/.
+		scp pi@192.168.1.123:~/path/to/file ~/.
 		```
+
+3. They'll be prompted for your password, and then the file will be copied over.
