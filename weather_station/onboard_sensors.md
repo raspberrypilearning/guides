@@ -14,8 +14,6 @@ All These sensors communicate with the Raspberry Pi using the I2C bus and work u
 
 As these sensors are all on-board, there is no need for any special hardware configuration
 
-### When connected the temperature read by the probe is written to a file in /sys
-
 ## Sample Code
 
 The easiest way to access the temperature probe is using the prebuilt python modules available from the downloaded GitHub repo - https://github.com/raspberrypi/weather-station.git

@@ -7,3 +7,4 @@
 - [Weather Station Guide](weather_station/README.md)
 - [Minecraft Pi Guide](minecraft-pi/README.md)
 - [Astro Pi Guide](astro-pi/README.md)
+- [Sharing Files](file_sharing/README.md)
