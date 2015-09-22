@@ -1,31 +1,34 @@
-# Getting started with the Sense HAT
+# A Guide to Astro Pi
 
-![](cover.png)
+![Astro Pi Cover Art](images/cover.png)
 
-The Sense HAT is an add-on board for the Raspberry Pi which allows you to sense a range of inputs and do creative things with them, including displaying information using the LED matrix. This activity will help you start using the sensors and LEDs in your projects.
+This collection of guides and worksheets has been designed to provide you with a broad understanding of the Astro Pi HAT and its capabilities. They could be used by teachers and students who have just entered the Astro Pi [Secondary School competition](http://astro-pi.org/secondary-school-competition/), or by anyone wanting to make the most of their Astro Pi HAT. It will introduce you to what the board does, how to set it up, how to write your first program, and how to use the HAT's many features. 
 
-## Requirements
+## Getting Started
 
-Before following this resource it is a good idea to review the [Sense HAT Guide for Astro Pi](https://www.raspberrypi.org/learning/astro-pi-guide/), which will help you get your hardware set up and configured.
+- [Astro Pi: what is it?](board.md)
+- [Assemble the Astro Pi](assemble.md)
+- [Software setup](software.md)
+- [Astro Pi: first program](program.md)
+- [Astro Pi Python Cheatsheet](files/AstroPi-Cheatsheet.pdf)
+- [Getting started with Astro Pi learn resource](http://raspberrypi.org/learning/getting-started-with-astro-pi)
 
-### Hardware
+## Sensors
 
-- 1 x Sense HAT
+- [Temperature](sensors/temperature.md)
+- [Humidity](sensors/humidity.md)
+- [Pressure](sensors/pressure.md)
+- [Movement](sensors/movement.md)
 
-### Software
+## Inputs & Outputs
 
-- Sense HAT library for Python 3
+- [Joystick](inputs-outputs/joystick.md)
+- [LED Matrix](inputs-outputs/led-matrix.md)
 
-## The worksheet
+## Learn more about Astro Pi
 
-- [The worksheet](worksheet.md)
+- [The Official Astro Pi Website](http://astro-pi.org/)
+- Martin O'Hanlon has built a [virtual Astro Pi](http://www.stuffaboutcode.com/2015/05/interactive-minecraft-astro-pi.html) board in Minecraft which you can interact with to explore the functionality of the board. 
 
-## Licence
 
-Unless otherwise specified, everything in this repository is covered by the following licence:
 
-[![Creative Commons License](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
-
-***Getting Started With the Sense HAT*** by the [Raspberry Pi Foundation](https://www.raspberrypi.org) is licenced under a [Creative Commons Attribution 4.0 International Licence](http://creativecommons.org/licenses/by-sa/4.0/).
-
-Based on a work at https://github.com/raspberrypilearning/getting-started-with-the-sense-hat

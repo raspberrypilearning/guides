@@ -1,3 +1,1 @@
-In this resource you will explore the Sense HAT hardware and its Python library. The Sense HAT, which is a fundamental part of the Astro Pi Mission, allows your Raspberry Pi to sense the world around it.
-
-You will learn how to control the LED matrix, collect sensor data from the world around you, and combine these ideas in a number of small projects.
+This collection of guides and worksheets has been designed to provide you with a broad understanding of the Astro Pi HAT and its capabilities. They could be used by teachers and students who have just entered the Astro Pi Secondary School competition, or by anyone wanting to make the most of their Astro Pi HAT. It will introduce you to what the board does, how to set it up, how to write your first program, and how to use the HAT's many features.
