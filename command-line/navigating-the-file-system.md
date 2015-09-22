@@ -19,5 +19,3 @@ To move up a directory to a higher level in the file system type `cd ..`
 ## pwd
 
 You can find out where you are within the file system on Raspbian and typing `pwd` and pressing enter. It will return a location similar to this `/home/pi` depedning on where you are. 
-
-![](images/navigating-cl.png)
