@@ -4,6 +4,7 @@
 - [Camera Module Guide](camera/README.md)
 - [A Guide to Physical Computing](physical-computing/README.md)
 - [VNC Guide](vnc/README.md)
+- [Wifi Guide](wifi/README.md)
 - [Minecraft Pi Guide](minecraft-pi/README.md)
-- [Astro Pi Guide](astro-pi/README.md)
+- [Sense Hat Guide](astro-pi/README.md)
 - [Sharing Files](file-sharing/README.md)
