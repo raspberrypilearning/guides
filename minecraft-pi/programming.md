@@ -4,7 +4,7 @@
 
 Your minecraft world can be controlled and programmed using a number of tools including Sonic Pi and Python. In order to use these tools at the same time as minecraft you need to set up you screen and be able to switch between them easily. Watch the following video which shows you how to work with minecraft and a programming interface.
 
-[![Programming Minecraft Pi](http://img.youtube.com/vi/E4OODVwvRWo/0.jpg)](http://www.youtube.com/watch?v=E4OODVwvRWo)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E4OODVwvRWo" frameborder="0" allowfullscreen></iframe>
 
 The key points mentioned in the video are:
 - Arrange your minecraft and programming windows side by side to allow easy switching between them. (don't use minecraft in fullscreen mode.
