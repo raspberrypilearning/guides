@@ -3,10 +3,10 @@
 Potential Subjects:
 - [ ] intro - whats it for, why is it useful
 - [ ] how are commands structured (command -options parameters)
-- [ ] navigating the file system (cd, ls, pwd, .., ., ~, *)
-- [ ] files & directories (cp, mv, rm, mkdir, rmdir)
-- [ ] reading and editing files (cat, head, tail, nano)
-- [ ] sudo
+- [x] navigating the file system (cd, ls, pwd, .., ., ~, *)
+- [x] files & directories (cp, mv, rm, mkdir, rmdir)
+- [x] reading and editing files (cat, head, tail, nano)
+- [x] sudo
 - [ ] running a program (providing full paths, using &)
 - [ ] using the manual (man)
 - [ ] useful commands (passwd, shutdown, reboot, halt, cat, wget)
