@@ -14,5 +14,3 @@ Got a Raspberry Pi? Great, let's get started by making sure you have all the cab
 1. [Connecting to Wifi](wifi.md)
 1. [Installing Applications](install-apps.md)
 
-## Command Line
-- [The Command Line](../command-line/README.md)

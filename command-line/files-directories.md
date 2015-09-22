@@ -33,5 +33,3 @@ To make a new directory type `mkdir` followed by a name for the new directory an
 `rmdir` stands for **remove directory**.
 
 To remove a directory type `rmdir` followed by the name of the directory you wish to delete and press enter. For example: `rmdir my-programs`.
-
-![](images/file-cl.png)
