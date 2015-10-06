@@ -4,7 +4,9 @@ Sometime you might want to share files from your Raspberry Pi with other users, 
 
 ## Sharing over a Windows network
 - [Share over a Windows network](network.md)
+
 ## Sharing via Python's simple server
 - [Share via Python sever](server.md)
+
 ## Sharing via scp
 - [Share via scp](scp.md)
