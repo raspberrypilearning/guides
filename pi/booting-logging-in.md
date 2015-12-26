@@ -7,12 +7,16 @@ The Raspberry Pi does not have an on or off switch. To power on your Pi:
 
   *Note that if you do not see any text on your screen, it may be because you did not turn it on before powering up your Raspberry Pi.*
 
-1. Once your Raspberry Pi has completed the boot process, a login prompt will appear. 
+1. Once your Raspberry Pi has completed the boot process, it will usually log you in to the graphical user interface (desktop) for user `pi`.
+
+1. On old versions of Raspbian, or if you changed these settings in the Raspberry Pi Configuration tool, you may need to do the following steps. 
+
+1. A login prompt may appear. 
 
   The default login for Raspbian is username `pi` with the password `raspberry`. 
   *Note you will not see any writing appear when you type the password. This is a security feature in Linux.*
 
-1. After you have successfully logged in, you will see the command line prompt 
+1. After you have successfully logged in, you may see the command line prompt 
 
   ```bash
   pi@raspberrypi~$

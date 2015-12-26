@@ -23,14 +23,16 @@ It is best to format your SD card before copying the NOOBS files onto it. To do 
 
 ## Drag and drop NOOBS files
 
-1. Once your SD card has been formatted, drag all the files in the extracted NOOBS folder and drop them onto the SD card drive.
-1. The necessary files will then be transferred to your SD card.
+ 1. The necessary files will then be transferred to your SD card.
 1. When this process has finished, safely remove the SD card and insert it into your Raspberry Pi.
 
 ## First time you power on
 
 1. Plug in your keyboard, mouse and monitor  cables.
 1. Now plug in the USB power cable to your Pi.
-1. Your Raspberry Pi will boot, and a window will appear with a list of different operating systems that you can install. We recommend that you use Raspbian – tick the box next to Raspbian and click on `Install`.
+1. Your Raspberry Pi will boot, and a window will appear with a list of different operating systems that you can install. We recommend that you use Raspbian – tick the box next to Raspbian and click on `Install`. (If you do not have a connection to the Internet, Raspbian is the only option.)
 1. Raspbian will then run through its installation process. *Note this can take a while.*
-1. When the install process has completed, the Raspberry Pi configuration menu (`raspi-config`) will load. Here you are able to set the time and date for your region and enable a Raspberry Pi camera board, or even create users. You can exit this menu by using `Tab` on your keyboard to move to `Finish`.
+1. When the installation is complete, and you click on OK, you will be logged in to the graphical user interface (desktop) as user `pi`. From here, you can explore everything!
+1. But first, go to the Menu (top left) and navigate through Preferences... to the Raspberry Pi Configuration tool. Here you are able to tell Raspbian what region you are in, set your password, change what happens when Raspbian starts, or enable a Raspberry Pi camera board.
+1. If the time or date are wrong, you can correct them here too. Any time you have a connection to the Internet, Raspbian should correct them automatically.
+
