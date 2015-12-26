@@ -23,7 +23,8 @@ It is best to format your SD card before copying the NOOBS files onto it. To do 
 
 ## Drag and drop NOOBS files
 
- 1. The necessary files will then be transferred to your SD card.
+1. Once your SD card has been formatted, drag all the files in the extracted NOOBS folder and drop them onto the SD card drive.
+1. The necessary files will then be transferred to your SD card.
 1. When this process has finished, safely remove the SD card and insert it into your Raspberry Pi.
 
 ## First time you power on
@@ -33,6 +34,10 @@ It is best to format your SD card before copying the NOOBS files onto it. To do 
 1. Your Raspberry Pi will boot, and a window will appear with a list of different operating systems that you can install. We recommend that you use Raspbian – tick the box next to Raspbian and click on `Install`. (If you do not have a connection to the Internet, Raspbian is the only option.)
 1. Raspbian will then run through its installation process. *Note this can take a while.*
 1. When the installation is complete, and you click on OK, you will be logged in to the graphical user interface (desktop) as user `pi`. From here, you can explore everything!
-1. But first, go to the Menu (top left) and navigate through Preferences... to the Raspberry Pi Configuration tool. Here you are able to tell Raspbian what region you are in, set your password, change what happens when Raspbian starts, or enable a Raspberry Pi camera board.
-1. If the time or date are wrong, you can correct them here too. Any time you have a connection to the Internet, Raspbian should correct them automatically.
+1. First, go to the Menu (top left) and navigate through "Preferences" to the Raspberry Pi Configuration tool. Here you might need to:
+  1. Under "Localisation", tell Raspbian what region and time zone you are in (especially if you are not in Great Britain).
+  1. Change what happens when Raspbian starts, e.g. so it asks for a password.
+  1. Set your password, to stop anyone else logging in as `pi`.
+  1. Enable a Raspberry Pi camera board.
+  1. Set the time and date if they are wrong (if Raspbian cannot get them from the Internet).
 
