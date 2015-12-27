@@ -6,5 +6,5 @@
 - [VNC Guide](vnc/README.md)
 - [Wifi Guide](wifi/README.md)
 - [Minecraft Pi Guide](minecraft-pi/README.md)
-- [Sense Hat Guide](astro-pi/README.md)
+- [Sense Hat Guide](sense-hat/README.md)
 - [Sharing Files](file-sharing/README.md)
