@@ -51,6 +51,6 @@ Before you plug anything into your Raspberry Pi, make sure that you have all the
 
 ## What's next?
 
-- [Log into your Raspberry Pi](botting-logging-in.md)
+- [Log into your Raspberry Pi](booting-logging-in.md)
 
 
